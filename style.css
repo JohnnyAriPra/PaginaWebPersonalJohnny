@@ -61,7 +61,7 @@ body{
     width: 500px;
     background: rgba(0, 0, 0, .9);
     margin: 0 auto;
-    margin-top: 4%;
+    margin-top: 10%;
     padding: 20px;
     color: white;
     text-align: center;
@@ -131,7 +131,7 @@ body{
 
 .home-sci{
     position: absolute;
-    bottom: -40px;
+    bottom: -200px;
     left: 50%;
     transform: translateX(-50%);
     width: 130px;
@@ -180,10 +180,10 @@ body{
 
 .home-imgHover{
     position: absolute;
-    top: 0;
+    top: 140px;
     right: 480px;
     width: 400px;
-    height: 60%;
+    height: 50%; 
     background: transparent;
     transition: 3s;
     
